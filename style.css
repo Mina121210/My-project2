@@ -431,9 +431,6 @@ margin-bottom: 80px;
     border-radius: 30px;
     font-size: 27px;
     color: black;
-    display:flex;
-    justify-content: center;
-   align-items: center;
  
 }
 .qq{
@@ -442,16 +439,16 @@ margin-bottom: 80px;
 }
 
 .qq img{
-    width: 110px;
+    width: 160px;
     padding-bottom: 40px;
 }
 .q h1{
-    font-size: 20px;
+    font-size: 50px;
 }
 
 .q p{
     padding-bottom: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .c{
@@ -509,12 +506,12 @@ margin-bottom: 80px;
 
 
         .q h1{
-            font-size: 20px;
+            font-size: 30px;
         }
         
         .q p{
             padding-bottom: 20px;
-            font-size: 15px;
+            font-size: 17px;
         }
         
     
@@ -693,7 +690,6 @@ margin-bottom: 80px;
 .b{
     text-align: center;
     padding-bottom: 40px;
-    padding-top:100px;
 
 }
 
